@@ -1,10 +1,10 @@
 # Codenames-with-AI
 
-**Overview**
+**Overview:**
 
-An AI system to play Codenames
+An AI system to play Codenames.
 
-**Features**
+**Features:**
 
 1) The board game can be played in 3 configurations: Human vs Human, Human vs AI and AI vs AI
 1) AI system can play the board game Codenames autonomously, acting both as the spymaster giving hints and as the player guessing words.
